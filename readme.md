@@ -9,6 +9,13 @@ _________________________________________________________
 
 Just starting out with Python and getting comfortable writing code daily.
 Still in the “figure it out” phase — but consistency is the main focus right now.
+Though i wasn't a complete begginer knew the very fundamentals like:
+idea of:
+variables
+input/output
+conditional statements
+loops
+and knew how to use them in basic ways not the advanced versions.
 
 _________________________________________________________
 
